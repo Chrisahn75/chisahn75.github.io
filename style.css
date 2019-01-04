@@ -280,18 +280,19 @@ section{
 
 /* placement des élements dans le footer */ 
 #linkedin {
+  margin-left: 5%;
   display: flex;
   justify-content: center;
 }
 
 #github {
-  margin-left: 38%;
+  margin-left: 33%;
   margin-top: -4.4%;
   list-style: none;
 }
 
 #mail {
-  margin-left: 58%;
+  margin-left: 42%;
   margin-top: -4.4%;
   list-style: none;
 }
@@ -301,6 +302,11 @@ section{
   font-family: 'EB Garamond', serif;
   margin-top: -1%;
   font-size: 19px;
+  list-style: none;
+}
+#pdf {
+  margin-left: 59%;
+  margin-top: -4.4%;
   list-style: none;
 }
 /* heures  */
