@@ -306,7 +306,7 @@ section{
   font-family: 'EB Garamond', serif;
   text-align: center;
 }
-
+/* fleche permettant de remonter en haut de la page */
 #flchup { 
   position: fixed; 
   right: 1em; 
