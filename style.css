@@ -6,7 +6,7 @@ header {
     width: 100%;
 
   }
-/* Tous les h1 prendront ce style particulier */
+/* Tous les h1 et h2 prendront ce style particulier */
   h1 {
     padding: 100px 0;
     font: 54px 'Sedgwick Ave', cursive;
@@ -24,7 +24,7 @@ header {
     color: white;
   }
 
-/* ma page prendra se style là */
+/* ma page prendra ce style là */
   body {
     background-color: #21D4FD;
     background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
@@ -33,7 +33,7 @@ header {
     padding: 30px;
 
   }
-/* animation du menu */
+/* animation du menu situé sur le coté droit du site */
   #menu {
     position: fixed;
     right: -10em;
