@@ -160,13 +160,33 @@ header {
   display: block;
   text-align: center;
   margin-top: 40%;
-  margin-left: -20%;
 }
+
+#html {
+list-style: none;
+}
+
+#css{
+  list-style: none;
+}
+
+#javascript{
+  list-style: none;
+}
+
+#nodejs{
+  list-style: none;
+}
+
+/* #vuejs{
+  list-style: none;
+  font-size: 23%;
+} */
 /* Loisir */
 #Loisir {
   display: block;
   text-align: center;
-  margin-top: 45%; 
+  margin-top: -3%; 
 }
 /* colonne de gauche */
 .left2 {
@@ -183,7 +203,6 @@ header {
 .right2 {
   float: right;
   width: 76%;
-  /* margin: -6%; */
   margin-top: -10%;
 }
 /* animation du footer */
