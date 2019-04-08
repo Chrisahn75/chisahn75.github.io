@@ -48,11 +48,11 @@ header {
   }
 
 #menu:hover { 
-    right: 0
+    right: 0;
  }
 
 #menu {
-    transition: 0.5s
+    transition: 0.5s;
 }
 
 #menu a {
